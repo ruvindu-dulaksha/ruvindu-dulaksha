@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruvindu-dulaksha&label=Profile%20views&color=0e75b6&style=flat" alt="ruvindu-dulaksha" /> </p>
 
-- 🔭 I’m currently a student at Coventry University [Smart Car Parking App](https://github.com/ruvindu-dulaksha/Smart-Car-Parking-App)
-
+- 🔭 I’m currently a student at Coventry University 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dulaksharuvindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dulaksharuvindu" height="30" width="40" /></a>
