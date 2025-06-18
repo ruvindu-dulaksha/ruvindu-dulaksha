@@ -2,7 +2,7 @@
 
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey+👋%2C+I'm+K.D.Ruvindu+Dulaksha;Mobile+App+Developer+%7C+WordPress+Enthusiast;Flutter+%7C+Kotlin+%7C+Swift+%7C+Java+%7C+Firebase;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey+👋%2C+I'm+K.D.Ruvindu+Dulaksha;Mobile+App+Developer+%7C+WordPress+Enthusiast;Flutter+%7C+Kotlin+%7C+Swift+%7C+Java+%7C+Firebase;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </h1>
 
 <!-- Animated Developer GIF -->
@@ -36,10 +36,18 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ruvindu-dulaksha" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/dulaksharuvindu" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.youtube.com/c/dulaboy2355" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-  <a href="mailto:ruvindu.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/ruvindu-dulaksha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/dulaksharuvindu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/c/dulaboy2355" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-DulaBoy2355-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:ruvindu.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ruvindu.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
@@ -79,8 +87,8 @@
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile%20App%20Developer-%F0%9F%94%A5Super%20UI-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WordPress-Enthusiast-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile%20App%20Developer-%F0%9F%94%A5Super%20UI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress-Enthusiast-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ---
