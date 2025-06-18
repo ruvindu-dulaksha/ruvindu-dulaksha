@@ -1,107 +1,206 @@
-<!-- Animated GitHub Profile README -->
+# 📱 K.D. Ruvindu Dulaksha
 
-<!-- Typing Animation Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey+👋%2C+I'm+K.D.Ruvindu+Dulaksha;Mobile+App+Developer+%7C+WordPress+Enthusiast;Flutter+%7C+Kotlin+%7C+Swift+%7C+Java+%7C+Firebase;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
-</h1>
-<br>
+<div align="center">
 
-<!-- Animated Developer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+<!-- Mobile Phone Frame Animation -->
+<img width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
-<h3 align="center">🚀 Crafting Innovative Mobile Solutions | 🎨 Pixel-Perfect UI/UX Lover</h3>
+<!-- Typing Animation with Mobile Theme -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=👋+Hey%2C+I'm+K.D.+Ruvindu+Dulaksha;📱+Mobile+App+Developer;🎨+UI%2FUX+Enthusiast;🚀+Let's+Build+Amazing+Apps!" alt="Typing SVG" />
 
----
+<!-- Mobile Developer Badge -->
+<img src="https://img.shields.io/badge/📱_Mobile_Developer-6C63FF?style=for-the-badge&logoColor=white" alt="Mobile Developer" />
+<img src="https://img.shields.io/badge/🎨_UI/UX_Designer-FF6B6B?style=for-the-badge&logoColor=white" alt="UI/UX Designer" />
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruvindu-dulaksha&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+<!-- Profile Views with Mobile Icon -->
+<img src="https://komarev.com/ghpvc/?username=ruvindu-dulaksha&label=👁️+Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
-## ✨ About Me
+<!-- Mobile App Interface Style Cards -->
+<table align="center">
+<tr>
+<td width="50%">
 
-- 🎓 Final-Year Software Engineering Student at **Coventry University**
-- 💻 Passionate about crafting **mobile-first**, **modern**, and **animated apps**
-- 📱 Specializing in **Flutter**, **Kotlin**, **Swift**, **Java**
-- 🛠️ WordPress enthusiast – creating SEO-optimized, blazing-fast websites
-- 🔥 Published apps on **Google Play** and **App Store**
-- 🧠 Exploring the intersection of **AI + Mobile**
-- 🧩 UI/UX geek – focused on micro-animations and human-centered design
+### 📱 About Me
+```yaml
+name: K.D. Ruvindu Dulaksha
+role: Mobile App Developer
+education: Coventry University
+focus: Flutter • Kotlin • Swift
+passion: Crafting pixel-perfect UIs
+status: Building tomorrow's apps
+```
 
----
+</td>
+<td width="50%">
 
-## 🌐 Let's Connect
+### 🎯 Current Focus
+```yaml
+learning: AI + Mobile Integration
+building: Cross-platform apps
+exploring: Micro-animations
+creating: WordPress solutions
+publishing: Play Store & App Store
+designing: Human-centered UX
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruvindu-dulaksha-28527028b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/dulaksharuvindu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-  <a href="https://www.youtube.com/@nextgen-spark" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:ruvindufdo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ruvindufdo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,java,firebase" />
-</p>
-
-### 🌐 Web & WordPress
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,nodejs" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,postman,linux,git,github,vscode" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<!-- Mobile Tech Stack with Phone UI Style -->
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruvindu-dulaksha&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ruvindu-dulaksha&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
+## 📱 Mobile Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvindu-dulaksha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
-</p>
+<!-- Primary Mobile Stack -->
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=flutter" width="60" />
+<br><strong>Flutter</strong>
+<br><sub>Cross-platform UI</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=kotlin" width="60" />
+<br><strong>Kotlin</strong>
+<br><sub>Android Native</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=swift" width="60" />
+<br><strong>Swift</strong>
+<br><sub>iOS Native</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=java" width="60" />
+<br><strong>Java</strong>
+<br><sub>Android Foundation</sub>
+</td>
+</tr>
+</table>
+
+<!-- Backend & Tools -->
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=firebase" width="50" />
+<br><strong>Firebase</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=figma" width="50" />
+<br><strong>Figma</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=vscode" width="50" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=git" width="50" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=wordpress" width="50" />
+<br><strong>WordPress</strong>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🏆 Achievements & Badges
+<!-- Mobile Stats Dashboard -->
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mobile%20App%20Developer-%F0%9F%94%A5Super%20UI-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WordPress-Enthusiast-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+## 📊 Developer Analytics
+
+<!-- Stats Cards in Mobile Layout -->
+<img src="https://github-readme-stats.vercel.app/api?username=ruvindu-dulaksha&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=15" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ruvindu-dulaksha&theme=react&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=6C63FF&sideNums=6C63FF&dates=8B949E&border_radius=15" width="49%" />
+
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvindu-dulaksha&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&border_radius=15&langs_count=8" width="55%" />
+
+</div>
 
 ---
 
-## 💬 Inspirational Quote
+<!-- Mobile Contact Interface -->
+<div align="center">
 
-> 💡 *“Every line of code I write brings me one step closer to building tomorrow’s innovations.”*  
-> – **K.D. Ruvindu Dulaksha**
+## 📞 Connect With Me
+
+<!-- Contact Buttons in Mobile Style -->
+<a href="https://www.linkedin.com/in/ruvindu-dulaksha-28527028b" target="_blank">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/dulaksharuvindu" target="_blank">
+<img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&border_radius=10" alt="Twitter" />
+</a>
+<a href="https://www.youtube.com/@nextgen-spark" target="_blank">
+<img src="https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&border_radius=10" alt="YouTube" />
+</a>
+<a href="mailto:ruvindufdo@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" alt="Gmail" />
+</a>
+
+</div>
 
 ---
 
-<!-- Optional Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/catppuccin-readme/main/assets/waves/wave-header.svg" />
-</p>
+<!-- Mobile Achievement Badges -->
+<div align="center">
+
+## 🏆 Digital Achievements
+
+<img src="https://img.shields.io/badge/📱_Mobile_Expert-6C63FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🎨_UI/UX_Specialist-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀_App_Publisher-4CAF50?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_WordPress_Pro-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+</div>
+
+---
+
+<!-- Mobile Inspirational Section -->
+<div align="center">
+
+## 💭 Developer Philosophy
+
+> ### 🎨 *"Great mobile apps aren't just functional—they're delightful experiences that users love to interact with daily."*
+> 
+> **— K.D. Ruvindu Dulaksha**
+
+<!-- Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&animation=twinkling" />
+
+</div>
+
+---
+
+<!-- Mobile Activity Graph -->
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruvindu-dulaksha&theme=react-dark&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFD93D&area=true&hide_border=true&border_radius=15" width="100%" />
+
+</div>
+
+---
+
+<!-- Mobile Footer -->
+<div align="center">
+
+### 🌟 *"Building the future, one app at a time"* 🌟
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+
+**Thank you for visiting! Let's create something amazing together! 🚀**
+
+</div>
