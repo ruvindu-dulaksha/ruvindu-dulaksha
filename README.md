@@ -1,19 +1,22 @@
 <div align="center">
 
 <!-- Futuristic Header with Neon Glow Effect -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=300&section=header&text=K.D.%20RUVINDU%20DULAKSHA&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Mobile%20App%20Architect%20%7C%20UI/UX%20Innovator&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=300&section=header&text=K.D.%20RUVINDU%20DULAKSHA&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Mobile%20Application%20Developer%20%7C%20UI/UX%20Designer%20%7C%20WordPress%20Enthusiast&descAlignY=55&descSize=18" />
 
 <!-- 3D Holographic Avatar -->
 <img width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
+<!-- Mobile Dev Animation -->
+<img width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+
 <!-- Futuristic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2000&pause=800&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+CRAFTING+DIGITAL+EXPERIENCES;⚡+FLUTTER+%7C+KOTLIN+%7C+SWIFT+WIZARD;🎨+PIXEL-PERFECT+UI+ARCHITECT;🌟+TURNING+IDEAS+INTO+REALITY" alt="Futuristic Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2000&pause=800&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+MOBILE+APPLICATION+DEVELOPER;⚡+FLUTTER+%7C+KOTLIN+%7C+SWIFT+EXPERT;🎨+UI/UX+DESIGNER+%26+ENTHUSIAST;🌐+WORDPRESS+DEVELOPMENT+PRO;🌟+TURNING+CONCEPTS+INTO+REALITY" alt="Futuristic Typing" />
 
 <!-- Neon Badge Collection -->
 <p>
-<img src="https://img.shields.io/badge/🚀_MOBILE_ARCHITECT-00D4FF?style=for-the-badge&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/⚡_UI/UX_WIZARD-FF0080?style=for-the-badge&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/🌟_INNOVATION_CATALYST-00FF88?style=for-the-badge&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/📱_MOBILE_DEVELOPER-00D4FF?style=for-the-badge&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/🎨_UI/UX_DESIGNER-FF0080?style=for-the-badge&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/🌐_WORDPRESS_EXPERT-00FF88?style=for-the-badge&logoColor=white&labelColor=000000" />
 </p>
 
 <!-- Profile Analytics with Glow -->
