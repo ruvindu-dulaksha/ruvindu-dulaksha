@@ -1,19 +1,20 @@
-<!-- Modern Animated GitHub Profile README -->
+<!-- Animated GitHub Profile README -->
 
-<!-- Header: Typing animation and banner -->
+<!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hey+👋%2C+I'm+K.D.Ruvindu+Dulaksha;Mobile+App+Developer+%7C+WordPress+Enthusiast;Flutter+%7C+Kotlin+%7C+Swift+%7C+Java+%7C+Firebase;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey+👋%2C+I'm+K.D.Ruvindu+Dulaksha;Mobile+App+Developer+%7C+WordPress+Enthusiast;Flutter+%7C+Kotlin+%7C+Swift+%7C+Java+%7C+Firebase;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </h1>
 
+<!-- Animated Developer GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 <h3 align="center">🚀 Crafting Innovative Mobile Solutions | 🎨 Pixel-Perfect UI/UX Lover</h3>
 
 ---
 
-<!-- Profile Views Counter -->
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruvindu-dulaksha&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
@@ -23,30 +24,22 @@
 ## ✨ About Me
 
 - 🎓 Final-Year Software Engineering Student at **Coventry University**
-- 💻 Passionate about building seamless, modern, and animated **Mobile Apps**
-- 🌍 Building apps with **Flutter**, **Kotlin**, **Swift**, **Java**
-- 🛠️ WordPress enthusiast – creating fast, SEO-optimized websites
-- 📱 Apps deployed on **Google Play** and **App Store**
-- 🔍 Exploring the fusion of **AI + Mobile** technologies
-- 💡 Dreaming big and building future-ready digital solutions!
+- 💻 Passionate about crafting **mobile-first**, **modern**, and **animated apps**
+- 📱 Specializing in **Flutter**, **Kotlin**, **Swift**, **Java**
+- 🛠️ WordPress enthusiast – creating SEO-optimized, blazing-fast websites
+- 🔥 Published apps on **Google Play** and **App Store**
+- 🧠 Exploring the intersection of **AI + Mobile**
+- 🧩 UI/UX geek – focused on micro-animations and human-centered design
 
 ---
 
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ruvindu-dulaksha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/dulaksharuvindu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.youtube.com/c/dulaboy2355" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
-  <a href="mailto:ruvindu.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="https://linkedin.com/in/ruvindu-dulaksha" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/dulaksharuvindu" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.youtube.com/c/dulaboy2355" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <a href="mailto:ruvindu.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
@@ -54,26 +47,23 @@
 ## 💻 Tech Stack
 
 ### 📱 Mobile Development
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,java,firebase" />
 </p>
 
 ### 🌐 Web & WordPress
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,nodejs" />
 </p>
 
 ### 🧰 Tools & Platforms
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,postman,linux,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruvindu-dulaksha&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
@@ -102,7 +92,7 @@
 
 ---
 
-<!-- Footer Wave SVG (Optional) -->
+<!-- Optional Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kyechan99/catppuccin-readme/main/assets/waves/wave-header.svg" />
 </p>
