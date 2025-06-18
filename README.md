@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/🎨_UI/UX_DESIGNER-FF0080?style=for-the-badge&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/🌐_WORDPRESS_EXPERT-00FF88?style=for-the-badge&logoColor=white&labelColor=000000" />
 </p>
+<br><br>
 
 <!-- Profile Analytics with Glow -->
 <img src="https://komarev.com/ghpvc/?username=ruvindu-dulaksha&label=👁️‍🗨️+PROFILE+SCANS&color=blueviolet&style=for-the-badge&labelColor=000000" alt="Profile Views" />
