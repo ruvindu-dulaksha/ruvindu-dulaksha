@@ -4,6 +4,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey+👋%2C+I'm+K.D.Ruvindu+Dulaksha;Mobile+App+Developer+%7C+WordPress+Enthusiast;Flutter+%7C+Kotlin+%7C+Swift+%7C+Java+%7C+Firebase;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </h1>
+<br>
 
 <!-- Animated Developer GIF -->
 <p align="center">
@@ -43,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/@nextgen-spark" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Ruvindu-Dulaksha-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:ruvindufdo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ruvindufdo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
