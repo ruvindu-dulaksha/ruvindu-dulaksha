@@ -36,17 +36,17 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ruvindu-dulaksha" target="_blank">
+  <a href="https://www.linkedin.com/in/ruvindu-dulaksha-28527028b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/dulaksharuvindu" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/c/dulaboy2355" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-DulaBoy2355-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://www.youtube.com/@nextgen-spark" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Ruvindu-Dulaksha-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:ruvindu.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ruvindu.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:ruvindufdo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ruvindufdo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
